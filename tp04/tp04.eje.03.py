@@ -2,7 +2,8 @@
 #autor: gustavo flores vargas
 #fecha: 26/09/2023
 
-#3) Vuelva a reescribir el programa del salario usando try y except, de modo que el programa sea capaz de gestionar entradas no numéricas con elegancia, mostrando un mensaje y saliendo del programa. A continuación se muestra un ejemplo de ejecución.
+#3) Vuelva a reescribir el programa del salario usando try y except, de modo que el programa sea capaz de gestionar entradas no numéricas con elegancia, 
+#mostrando un mensaje y saliendo del programa. A continuación se muestra un ejemplo de ejecución.
 
 while True:
     try:
